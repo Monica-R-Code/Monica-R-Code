@@ -1,11 +1,15 @@
-## Hi there 👋 It's me Monica
+<h1 align="center">Hi 👋, I'm Monica.R</h1>
+<h3 align="center">Learn | Create | Repeat</h3>
 
-Bsc.Computer Science
+- 🌱 I’m currently learning **Web Designing**
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
-- 🌱 I’m currently learning WEB DESIGNING
- - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/mellow.moni/#) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/monica-r-code)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/monica-r-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/monica-r-code" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mellow.moni?utm_source=ig_web_button_share_sheet&igsh=zdnlzdc0mzixnw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mellow.moni?utm_source=ig_web_button_share_sheet&igsh=zdnlzdc0mzixnw==" height="30" width="40" /></a>
+</p>
 
-### Languages Known
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monica-r-code&show_icons=true&locale=en&layout=compact" alt="monica-r-code" /></p>
