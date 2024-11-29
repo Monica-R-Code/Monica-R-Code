@@ -6,7 +6,8 @@ Bsc.Computer Science
 - 🌱 I’m currently learning WEB DESIGNING
  📫 How to reach me :
 <br /> <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />(https://www.instagram.com/mellow.moni/#) 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/monica-r-code)
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/monica-r-code)
 
 
 
