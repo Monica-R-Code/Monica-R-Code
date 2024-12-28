@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Monica-R-Code/Monica-R-Code/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Connect Me In</h2>
 
 ###
 
